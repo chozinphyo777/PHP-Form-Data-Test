@@ -12,7 +12,7 @@
     <div class="row">
         <div class="col-md-3">
             <div>
-                <a href="login.php">
+                <a href="index.php">
                     <button class="btn btn-danger text-white mb-3" style="width:200px">Login</button>
                 </a>
             </div>
