@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="./css/bootstrap.css">
 </head>
-<body class="bg-dark">
+<body class="">
   <div class="container mt-4">
     <div class="row">
         <div class="col-4">
